@@ -82,7 +82,12 @@ nome="Maria"
             imagem='https://avatars.githubusercontent.com/u/118355973?s=400&u=2b41f0c5b835451cf0e377dadd55fc6dae680a4e&v=4'
             descricao='Aluna IFMS'/>
             
-
+  <Estudante
+            nome= "Ingrid Gomes dos Santos"
+            imagem='https://github.com/ingridgomes1.png'
+            descricao= "Estudante de Técnico em Informática do IFMS"
+            githubLink= "https://github.com/ingridgomes1"
+            />
 <Estudante
                 nome="Gustavo Oliveira Silva"
                 imagem="https://github.com/Gustavoif12.png"
