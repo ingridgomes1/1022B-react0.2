@@ -4,3 +4,9 @@
                 descricao="Professor do IFMS nas matérias de Desenvolvimento - Desenvolvimento Web"
                 githubLink='https://github.com/guilhermeterenciani'
             />
+  <Estudante
+            nome= "Ingrid Gomes dos Santos"
+            imagem='https://github.com/ingridgomes1.png'
+            descricao= "Estudante de Técnico em Informática do IFMS"
+            githubLink= "https://github.com/ingridgomes1"
+            />
